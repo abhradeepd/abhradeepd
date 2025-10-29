@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=E67E22&center=true&vCenter=true&width=940&lines=Data+Scientist+%7C+ML+Engineer;Building+Scalable+Data+Solutions;Transforming+Data+into+Insights;Open+to+Full-Time+Opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=E67E22&center=true&vCenter=true&width=940&lines=Building+Scalable+Data+Solutions;Transforming+Data+into+Insights;Open+to+Full-Time+Opportunities!" alt="Typing SVG" />
 
 # Hi, I'm Abhradeep Das 👋
 
@@ -32,11 +32,10 @@
 Passionate about architecting **end-to-end data solutions** that drive business impact. Expert in building robust **ETL pipelines**, deploying **production-grade ML models**, and crafting **actionable insights** from complex datasets.
 
 - 🔭 I'm currently working on **scalable data pipelines and ML models**
-- 🌱 I'm currently learning **advanced MLOps and cloud architecture**
 - 👯 I'm looking to collaborate on **open-source data engineering projects**
 - 💬 Ask me about **Python, SQL, data visualization, and machine learning**
-- 📫 How to reach me: **abhradeep.das@gwu.edu**
-- ⚡ Fun fact: **I love solving real-world problems with data and I'm a huge Naruto fan!**
+- 📫 Reach me at: **abhradeep.das@gwu.edu**
+- ⚡ Fun fact: **I love solving real-world problems with data**
 
 > 🔍 **Currently seeking:** Full-time **Data Analyst** or **Data Engineer** opportunities
 
