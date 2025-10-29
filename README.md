@@ -21,7 +21,9 @@
 <br>
 <br>
 
-<h2>🎯 About Me</h2>
+<h2 align="center">🎯 About Me</h2>
+
+<br>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -42,94 +44,89 @@ Passionate about architecting **end-to-end data solutions** that drive business 
 <br>
 <br>
 
-<h2>🛠️ Tech Stack</h2>
-
-<div style="background-color: #1a1b27; border-radius: 10px; padding: 20px;">
-
-<table>
-<tr>
-<td width="50%" valign="top" style="border: none;">
-
-**Programming & Databases**
-
-<p>
-<img src="https://img.shields.io/badge/Python-1B3B6F?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/R-E67E22?style=for-the-badge&logo=r&logoColor=white" alt="R">
-<img src="https://img.shields.io/badge/SQL-9D7CD8?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/MySQL-1B3B6F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/PostgreSQL-E67E22?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MongoDB-9D7CD8?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-<img src="https://img.shields.io/badge/Java-1B3B6F?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/Bash-E67E22?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-</p>
-
-**Big Data & Distributed Systems**
-
-<p>
-<img src="https://img.shields.io/badge/Apache_Spark-9D7CD8?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
-<img src="https://img.shields.io/badge/Apache_Kafka-1B3B6F?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka">
-<img src="https://img.shields.io/badge/Airflow-E67E22?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow">
-<img src="https://img.shields.io/badge/Hadoop-9D7CD8?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Hadoop">
-<img src="https://img.shields.io/badge/ElasticSearch-1B3B6F?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ElasticSearch">
-</p>
-
-**Data Analytics & Visualization**
-
-<p>
-<img src="https://img.shields.io/badge/Tableau-E67E22?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
-<img src="https://img.shields.io/badge/Power_BI-9D7CD8?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
-<img src="https://img.shields.io/badge/Looker-1B3B6F?style=for-the-badge&logo=looker&logoColor=white" alt="Looker">
-<img src="https://img.shields.io/badge/Pandas-E67E22?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-9D7CD8?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Matplotlib-1B3B6F?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
-<img src="https://img.shields.io/badge/Seaborn-E67E22?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
-<img src="https://img.shields.io/badge/Plotly-9D7CD8?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
-<img src="https://img.shields.io/badge/spaCy-1B3B6F?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy">
-</p>
-
-</td>
-<td width="50%" valign="top" style="border: none;">
-
-**ML/DL Libraries**
-
-<p>
-<img src="https://img.shields.io/badge/PyTorch-E67E22?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/TensorFlow-9D7CD8?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/Keras-1B3B6F?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-<img src="https://img.shields.io/badge/Scikit--Learn-E67E22?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
-<img src="https://img.shields.io/badge/Hugging_Face-9D7CD8?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
-<img src="https://img.shields.io/badge/ONNX-1B3B6F?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX">
-</p>
-
-**Cloud & DevOps**
-
-<p>
-<img src="https://img.shields.io/badge/AWS-E67E22?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/GCP-9D7CD8?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP">
-<img src="https://img.shields.io/badge/Docker-1B3B6F?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Kubernetes-E67E22?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-<img src="https://img.shields.io/badge/dbt-9D7CD8?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt">
-<img src="https://img.shields.io/badge/Git-1B3B6F?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Jenkins-E67E22?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-<img src="https://img.shields.io/badge/CI/CD-9D7CD8?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD">
-</p>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <br>
 
-> 💪 *"I never go back on my word...  
-> that's my data-driven way!"*
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-1B3B6F?style=for-the-badge&logo=python&logoColor=white&labelColor=1B3B6F" alt="Python">
+<img src="https://img.shields.io/badge/R-E67E22?style=for-the-badge&logo=r&logoColor=white&labelColor=E67E22" alt="R">
+<img src="https://img.shields.io/badge/SQL-9D7CD8?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=9D7CD8" alt="SQL">
+<img src="https://img.shields.io/badge/MySQL-1B3B6F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1B3B6F" alt="MySQL">
+<img src="https://img.shields.io/badge/PostgreSQL-E67E22?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=E67E22" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MongoDB-9D7CD8?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=9D7CD8" alt="MongoDB">
+<img src="https://img.shields.io/badge/Java-1B3B6F?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1B3B6F" alt="Java">
+<img src="https://img.shields.io/badge/Bash-E67E22?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=E67E22" alt="Bash">
+</p>
+
+<h4 align="center">Big Data & Distributed Systems</h4>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Apache_Spark-9D7CD8?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=9D7CD8" alt="Apache Spark">
+<img src="https://img.shields.io/badge/Apache_Kafka-1B3B6F?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=1B3B6F" alt="Apache Kafka">
+<img src="https://img.shields.io/badge/Airflow-E67E22?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=E67E22" alt="Airflow">
+<img src="https://img.shields.io/badge/Hadoop-9D7CD8?style=for-the-badge&logo=apachehadoop&logoColor=white&labelColor=9D7CD8" alt="Hadoop">
+<img src="https://img.shields.io/badge/ElasticSearch-1B3B6F?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=1B3B6F" alt="ElasticSearch">
+</p>
+
+<h4 align="center">Data Analytics & Visualization</h4>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Tableau-E67E22?style=for-the-badge&logo=tableau&logoColor=white&labelColor=E67E22" alt="Tableau">
+<img src="https://img.shields.io/badge/Power_BI-9D7CD8?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=9D7CD8" alt="Power BI">
+<img src="https://img.shields.io/badge/Looker-1B3B6F?style=for-the-badge&logo=looker&logoColor=white&labelColor=1B3B6F" alt="Looker">
+<img src="https://img.shields.io/badge/Pandas-E67E22?style=for-the-badge&logo=pandas&logoColor=white&labelColor=E67E22" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-9D7CD8?style=for-the-badge&logo=numpy&logoColor=white&labelColor=9D7CD8" alt="NumPy">
+<img src="https://img.shields.io/badge/Matplotlib-1B3B6F?style=for-the-badge&logo=python&logoColor=white&labelColor=1B3B6F" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Seaborn-E67E22?style=for-the-badge&logo=python&logoColor=white&labelColor=E67E22" alt="Seaborn">
+<img src="https://img.shields.io/badge/Plotly-9D7CD8?style=for-the-badge&logo=plotly&logoColor=white&labelColor=9D7CD8" alt="Plotly">
+<img src="https://img.shields.io/badge/spaCy-1B3B6F?style=for-the-badge&logo=spacy&logoColor=white&labelColor=1B3B6F" alt="spaCy">
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h4 align="center">ML/DL Libraries</h4>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PyTorch-E67E22?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=E67E22" alt="PyTorch">
+<img src="https://img.shields.io/badge/TensorFlow-9D7CD8?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=9D7CD8" alt="TensorFlow">
+<img src="https://img.shields.io/badge/Keras-1B3B6F?style=for-the-badge&logo=keras&logoColor=white&labelColor=1B3B6F" alt="Keras">
+<img src="https://img.shields.io/badge/Scikit--Learn-E67E22?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=E67E22" alt="Scikit-Learn">
+<img src="https://img.shields.io/badge/Hugging_Face-9D7CD8?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=9D7CD8" alt="Hugging Face">
+<img src="https://img.shields.io/badge/ONNX-1B3B6F?style=for-the-badge&logo=onnx&logoColor=white&labelColor=1B3B6F" alt="ONNX">
+</p>
+
+<h4 align="center">Cloud & DevOps</h4>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-E67E22?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=E67E22" alt="AWS">
+<img src="https://img.shields.io/badge/GCP-9D7CD8?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=9D7CD8" alt="GCP">
+<img src="https://img.shields.io/badge/Docker-1B3B6F?style=for-the-badge&logo=docker&logoColor=white&labelColor=1B3B6F" alt="Docker">
+<img src="https://img.shields.io/badge/Kubernetes-E67E22?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=E67E22" alt="Kubernetes">
+<img src="https://img.shields.io/badge/dbt-9D7CD8?style=for-the-badge&logo=dbt&logoColor=white&labelColor=9D7CD8" alt="dbt">
+<img src="https://img.shields.io/badge/Git-1B3B6F?style=for-the-badge&logo=git&logoColor=white&labelColor=1B3B6F" alt="Git">
+<img src="https://img.shields.io/badge/Jenkins-E67E22?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=E67E22" alt="Jenkins">
+<img src="https://img.shields.io/badge/CI/CD-9D7CD8?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=9D7CD8" alt="CI/CD">
+</p>
+<br>
+
+> 💪 *"I never go back on my word... that's my data-driven way!"*
 
 </td>
 </tr>
 </table>
 
-</div>
-
-<br>
 <br>
 <br>
 
-<h2>📊 GitHub Activity</h2>
+<h2 align="center">📊 GitHub Activity</h2>
+
+<br>
 
 <div align="center">
 
