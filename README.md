@@ -39,7 +39,6 @@ Passionate about architecting **end-to-end data solutions** that drive business 
 - 👯 I'm looking to collaborate on **open-source data engineering projects**
 - 💬 Ask me about **Python, SQL, data visualization, and machine learning**
 - 📫 Reach me at: **abhradeep.das@gwu.edu**
-- ⚡ Fun fact: **I love solving real-world problems with data**
 
 > 🔍 **Currently seeking:** Full-time **Data Analyst** or **Data Engineer** opportunities
 
