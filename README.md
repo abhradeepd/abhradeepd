@@ -21,7 +21,11 @@
 <br>
 <br>
 
-<h2 align="center">🎯 About Me</h2>
+<div align="center"> 
+
+  ### 🎯 About Me
+  
+</div>
 
 <br>
 
@@ -43,7 +47,11 @@ Passionate about architecting **end-to-end data solutions** that drive business 
 <br>
 <br>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center"> 
+
+  ### 🛠️ Tech Stack
+  
+</div>
 
 <br>
 
@@ -123,7 +131,11 @@ Passionate about architecting **end-to-end data solutions** that drive business 
 <br>
 <br>
 
-<h2 align="center">📊 GitHub Activity</h2>
+<div align="center"> 
+
+  ### 📊 GitHub Activity
+  
+</div>
 
 <br>
 
