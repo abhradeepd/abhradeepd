@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=E67E22&center=true&vCenter=true&width=940&lines=Building+Scalable+Data+Solutions;Transforming+Data+into+Insights;Open+to+Full-Time+Opportunities!" alt="Typing SVG" />
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Abhradeep+Das" alt="Name" /> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">
+<br>
 
-# Hi, I'm Abhradeep Das 👋
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=E67E22&center=true&vCenter=true&width=940&lines=Building+Scalable+Data+Solutions;Transforming+Data+into+Insights;Open+to+Full-Time+Opportunities!" alt="Typing SVG" />
 <p>
   <a href="https://www.linkedin.com/in/abhradeep_d" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1B3B6F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-1B3B6F?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abhradeep_d" alt="LinkedIn">
   </a>
 </p>
 
