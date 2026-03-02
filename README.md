@@ -1,7 +1,7 @@
 <div align="center">
 
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Abhradeep+Das" alt="Name" /> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Abhradeep" alt="Name" /> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=E67E22&center=true&vCenter=true&width=940&lines=Building+Scalable+Data+Solutions;Transforming+Data+into+Insights;Open+to+Full-Time+Opportunities!" alt="Typing SVG" />
