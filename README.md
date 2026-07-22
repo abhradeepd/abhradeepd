@@ -108,8 +108,15 @@ raw sources ──▶ ingest ──▶ warehouse ──▶ dbt + tests ✓ ─�
 <h3><samp>// 03 · numbers</samp></h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhradeepd&show_icons=true&hide_border=true&bg_color=0F1124&title_color=E67E22&icon_color=9D7CD8&text_color=C9D3DD&count_private=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhradeepd&layout=compact&hide_border=true&bg_color=0F1124&title_color=E67E22&text_color=C9D3DD" alt="Top languages" height="165">
+  <a href="https://github.com/abhradeepd?tab=followers">
+    <img src="https://img.shields.io/github/followers/abhradeepd?style=for-the-badge&logo=github&labelColor=0F1124&color=E67E22" alt="Followers">
+  </a>
+  <a href="https://github.com/abhradeepd?tab=repositories">
+    <img src="https://img.shields.io/github/stars/abhradeepd?affiliations=OWNER&style=for-the-badge&logo=github&labelColor=0F1124&color=9D7CD8" alt="Stars">
+  </a>
+  <a href="https://abhradeepd.github.io">
+    <img src="https://img.shields.io/badge/portfolio-live-1B3B6F?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0F1124" alt="Portfolio live">
+  </a>
 </p>
 
 <br>
