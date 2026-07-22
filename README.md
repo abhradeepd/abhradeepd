@@ -110,6 +110,7 @@ raw sources ──▶ ingest ──▶ warehouse ──▶ dbt + tests ✓ ─�
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhradeepd&show_icons=true&hide_border=true&bg_color=0F1124&title_color=E67E22&icon_color=9D7CD8&text_color=C9D3DD&count_private=true" alt="GitHub stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhradeepd&layout=compact&hide_border=true&bg_color=0F1124&title_color=E67E22&text_color=C9D3DD" alt="Top languages" height="165">
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=abhradeepd)](https://github.com/stats-organization/github-stats-extended)
 </p>
 
 <br>
