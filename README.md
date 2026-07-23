@@ -15,7 +15,7 @@
 
 ### <samp>// 01 · hello</samp>
 
-Hey, I'm Abhradeep — thanks for stopping by 👋
+Hey, I'm Abhradeep — thanks for stopping by <img src="assets/wave.svg" width="24" alt="wave" align="center">
 
 I'm an **Analytics Engineer** with an MS in Data Science from The George Washington University. My favourite kind of problem is the messy one: five systems disagreeing about the same number, and nobody sure which to trust. I like turning that into one tested, documented model everyone can point at — and then handing people a dashboard they can actually answer their own questions with.
 
@@ -24,26 +24,25 @@ select
     name,
     role,
     stack,
-    currently_building,
-    status
+    open_to,
+    location
 from  engineers
 where name = 'Abhradeep Das';
 
--- 1 row returned ------------------------------------------------------------
--- name                | Abhradeep Das
--- role                | Analytics Engineer  (ex-World Bank, ex-GWU)
--- stack               | {dbt, sql, snowflake, bigquery, power bi}
--- currently_building  | {ecommerce warehouse, ga4 metrics layer}
--- status              | open to opportunities · replies to every message
+-- 1 row returned -------------------------------------------------------------
+-- name      | Abhradeep Das
+-- role      | Analytics Engineer
+-- stack     | {dbt, sql, snowflake, bigquery, power bi, python}
+-- open_to   | {full-time roles, open-source collaboration}
+-- location  | anywhere in India · open to relocating
 ```
 
-- 🔭 Building two end-to-end analytics-engineering projects — an e-commerce warehouse (`dlt · dbt · DuckDB · Dagster`) and a GA4 event-analytics metrics layer (`BigQuery · MetricFlow · Elementary`)
-- 🌱 Currently deepening the 2026 AE stack — semantic layers, data contracts and observability
-- 👯 Happy to collaborate on **open-source data engineering projects**
-- 💬 Ask me anything about **dbt, dimensional modelling, SQL or BI** — genuinely, I enjoy these conversations
+- 👯 **Open to collaborating on open-source data engineering projects** — pipelines, dbt packages, tooling, docs. Send an issue or a message.
+- 🇮🇳 **Open to work anywhere in India**, and to relocating internationally with visa sponsorship.
+- 💬 Ask me anything about **dbt, dimensional modelling, SQL or BI** — genuinely, I enjoy these conversations.
 - 📫 Reach me at **abhradeep.das@gwu.edu**
 
-> 🔍 **Currently seeking:** full-time **Analytics Engineer**, **BI Engineer**, or **Data Analyst** roles — anywhere in India, open to relocating worldwide.
+> 🔍 **Currently seeking:** full-time **Analytics Engineer**, **BI Engineer**, or **Data Analyst** roles.
 
 <details>
 <summary><samp>&nbsp;🍥&nbsp; a few things that aren't on my résumé</samp></summary>
@@ -67,14 +66,16 @@ where name = 'Abhradeep Das';
 
 ---
 
-### <samp>// 03 · impact, measured</samp>
+### <samp>// 03 · how i work</samp>
 
-| | |
-|---|---|
-| **18%** | lift in donor data reliability — automated dbt test framework with SLA tracking · *Saayam for All* |
-| **25%** | less manual reporting across 5 regions — one governed star schema replaced ad-hoc pulls · *Saayam for All* |
-| **500+** | policy documents auto-classified by development theme with an in-house Llama 70B system · *The World Bank* |
-| **182** | countries ranked by a climate-governance prioritization model behind a 14% allocation-efficiency gain · *The World Bank* |
+```yaml
+# principles.yml
+- one_definition_per_metric:  agreed with stakeholders before it ships
+- tests_are_not_optional:     not_null, unique, relationships, freshness
+- documented_or_it_doesn't_exist: every model, every column
+- readable_beats_clever:      the next person is usually me
+- start_from_the_question:    dashboards are answers, not tables on a page
+```
 
 ---
 
