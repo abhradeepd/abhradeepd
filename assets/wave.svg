@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40" role="img" aria-label="waving hand">
+  <text x="20" y="31" font-size="30" text-anchor="middle" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif">&#128075;
+    <animateTransform attributeName="transform" type="rotate"
+      values="0 20 31; -18 20 31; 14 20 31; -14 20 31; 9 20 31; 0 20 31; 0 20 31; 0 20 31"
+      keyTimes="0; 0.07; 0.14; 0.21; 0.28; 0.36; 0.7; 1"
+      dur="2.6s" repeatCount="indefinite"/>
+  </text>
+</svg>
